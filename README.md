@@ -1,6 +1,6 @@
 # Animated Template
 
-Idea of this project was to apply animations to the static landing page
+An idea of this project was to apply animations to the static landing page
 
 ## Features
 
